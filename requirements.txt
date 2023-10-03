@@ -1,1 +1,6 @@
 pre-commit
+
+argparse ="*"
+pyfiglet ="*"
+simple-chalk ="*"
+requests ="*"
